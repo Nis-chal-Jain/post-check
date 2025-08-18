@@ -1,0 +1,28 @@
+{
+  "name": "post-check",
+  "version": "1.0.0",
+  "description": "a cheque management app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nis-chal-Jain/post-check.git"
+  },
+  "keywords": [
+    "crm"
+  ],
+  "author": "Nischal Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nis-chal-Jain/post-check/issues"
+  },
+  "homepage": "https://github.com/Nis-chal-Jain/post-check#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3"
+  }
+}
